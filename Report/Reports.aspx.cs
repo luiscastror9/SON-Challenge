@@ -12,8 +12,14 @@ namespace Report
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            if (!Context.User.Identity.IsAuthenticated) {
+              
+                IdentityHelper.RedirectToReturnUrl("~/Default.aspx", Response);
+            }
             if (!this.IsPostBack)
             {
+
+
                 BusinessLayer.BLL.OrderBLL orderBLL = new OrderBLL();
                 DateTime baseDate = DateTime.Today;
                 var today = baseDate;

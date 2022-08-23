@@ -10,3 +10,15 @@ C:\SON\SONChallenge\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInpu
 C:\SON\SONChallenge\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
 C:\SON\SONChallenge\BusinessLayer\obj\Debug\BusinessLayer.dll
 C:\SON\SONChallenge\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\SON\SONChallenge\SON-Challenge\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\SON\SONChallenge\SON-Challenge\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\SON\SONChallenge\SON-Challenge\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\SON\SONChallenge\SON-Challenge\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\SON\SONChallenge\SON-Challenge\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\SON\SONChallenge\SON-Challenge\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\SON\SONChallenge\SON-Challenge\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\SON\SONChallenge\SON-Challenge\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\SON\SONChallenge\SON-Challenge\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\SON\SONChallenge\SON-Challenge\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\SON\SONChallenge\SON-Challenge\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\SON\SONChallenge\SON-Challenge\BusinessLayer\obj\Debug\BusinessLayer.pdb
