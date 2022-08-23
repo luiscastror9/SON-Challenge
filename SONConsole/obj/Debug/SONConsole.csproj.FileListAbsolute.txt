@@ -1,0 +1,7 @@
+C:\SON\SONChallenge\SONConsole\bin\Debug\SONConsole.exe.config
+C:\SON\SONChallenge\SONConsole\bin\Debug\SONConsole.exe
+C:\SON\SONChallenge\SONConsole\bin\Debug\SONConsole.pdb
+C:\SON\SONChallenge\SONConsole\obj\Debug\SONConsole.csproj.SuggestedBindingRedirects.cache
+C:\SON\SONChallenge\SONConsole\obj\Debug\SONConsole.csproj.CoreCompileInputs.cache
+C:\SON\SONChallenge\SONConsole\obj\Debug\SONConsole.exe
+C:\SON\SONChallenge\SONConsole\obj\Debug\SONConsole.pdb
